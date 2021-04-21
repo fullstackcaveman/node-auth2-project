@@ -33,7 +33,7 @@ You will complete the following tasks and do any extra wiring and package instal
 
 Write the following user access functions inside `api/users/users-model.js`:
 
-- [ ] `find`
+- [x] `find`
 - [ ] `findBy`
 - [ ] `findById`
 
@@ -62,7 +62,7 @@ The endpoints inside `api/users/users-router.js` are built already but check the
 
 #### 2D - Secrets File
 
-Complete the `secrets/index.js` file.
+- [x] Complete the `secrets/index.js` file.
 
 #### Users Schema
 
